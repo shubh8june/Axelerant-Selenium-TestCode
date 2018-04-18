@@ -11,10 +11,10 @@
     <protocol>https</protocol>
     
     <!-- title of the document -->
-    <documentTitle>Axelerant Test Code</documentTitle>
+    <documentTitle>Axelerant Selenium Test Code</documentTitle>
     
     <!-- report name - displayed at top-nav -->
-    <reportName>Axelerant - Cucumber Report</reportName>
+    <reportName>Axelerant - Selenium Report</reportName>
     
     <!-- global date format override -->  <!-- defaults to yyyy-MM-dd -->
     <dateFormat>yyyy-MM-dd</dateFormat>

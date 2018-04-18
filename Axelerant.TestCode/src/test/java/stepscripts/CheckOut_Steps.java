@@ -24,7 +24,7 @@ public class CheckOut_Steps {
 		 common=new CommonLib();
 	
 		 driver = common.launchHomePage();
-		 //checkout = new CheckOutProcessLib();
+		
 		}
  
 	@When("^User search for product$")

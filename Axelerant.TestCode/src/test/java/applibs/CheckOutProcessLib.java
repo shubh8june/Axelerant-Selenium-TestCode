@@ -13,7 +13,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
  * This applib file will define the objects and methods required to perform the complete checout process.
  * @author Shubhangi Bheda
  * @Created On: 15 April 2018
- * @Last Updated:
+ * @Last Updated: 18 April 2108
  */
 public class CheckOutProcessLib{
 	WebDriverWait wait;

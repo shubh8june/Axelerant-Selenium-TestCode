@@ -1,5 +1,5 @@
 package stepscripts;
-
+/** Steps file for Subscribe To Scenario*/
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

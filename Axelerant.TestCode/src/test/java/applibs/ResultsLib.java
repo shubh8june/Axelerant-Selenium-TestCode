@@ -1,15 +1,11 @@
 package applibs;
 /** This class file is used to store the console output to result folder.
+
  *  
  * @author Shubhangi Bheda
  * @Created On: 15 April 2018
- * @Last Updated: 17 April 2018
+ * @Last Updated: 18 April 2018
  */
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.PrintStream;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;

@@ -11,7 +11,7 @@ package dataProvider;
 	import java.io.FileReader;
 	import java.io.IOException;
 	import java.util.Properties;
-	 
+	
 	public class ConfigFileReader {
 		
 		private Properties properties;

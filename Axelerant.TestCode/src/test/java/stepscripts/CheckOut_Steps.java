@@ -1,6 +1,5 @@
 package stepscripts;
-
-
+/** Steps file for Check out Scenario*/
 import org.openqa.selenium.WebDriver;
 
 import org.junit.Assert;
